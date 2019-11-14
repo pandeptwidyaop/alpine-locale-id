@@ -523,7 +523,7 @@ msgid "Aug"
 msgstr "Авг"
 
 msgid "Sep"
-msgstr "Сеп"
+msgstr "Сен"
 
 msgid "Oct"
 msgstr "Окт"
