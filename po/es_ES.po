@@ -78,7 +78,7 @@ msgid "Saturday"
 msgstr "sabado"
 
 msgid "Jan"
-msgstr "en"
+msgstr "ene"
 
 msgid "Feb"
 msgstr "feb"
@@ -99,7 +99,7 @@ msgid "Jul"
 msgstr "jul"
 
 msgid "Aug"
-msgstr "aug"
+msgstr "ago"
 
 msgid "Sep"
 msgstr "sep"
@@ -132,7 +132,7 @@ msgid "July"
 msgstr "julio"
 
 msgid "August"
-msgstr "augosto"
+msgstr "agosto"
 
 msgid "September"
 msgstr "septiembre"
