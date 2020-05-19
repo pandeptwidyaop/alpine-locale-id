@@ -18,3 +18,5 @@ English and Russian included, also .pot file.
 
  - All translations and scripts uses [MIT](LICENSE.MIT)
  - Source files for `/usr/bin/locale` uses [LGPL](LICENSE)
+
+Now musl-locales in community repo of Alpine Linux)
