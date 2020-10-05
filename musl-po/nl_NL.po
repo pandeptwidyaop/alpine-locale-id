@@ -484,7 +484,7 @@ msgid "Monday"
 msgstr "maandag"
 
 msgid "Tuesday"
-msgstr "dindag"
+msgstr "dinsdag"
 
 msgid "Wednesday"
 msgstr "woensdag"
