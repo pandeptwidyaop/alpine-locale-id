@@ -546,9 +546,6 @@ msgstr "Maret"
 msgid "April"
 msgstr "April"
 
-msgid "May"
-msgstr "Mei"
-
 msgid "June"
 msgstr "Juni"
 
